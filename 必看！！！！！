@@ -1,0 +1,19 @@
+必看！！！
+1、下载WebKingCache缓存，并打包
+2、数据库脚本
+3、面试的题目
+    3.1、业务场景是这样的：从数据库中查询一颗树，我现在用代码模拟，
+         我们要做的是遍历该树，如果该树中的节点id等于我们传入的id，终止遍历该树。
+         答案：(test/java/org.king2.test.SearchTreeDemo)
+    3.2、对HashMap的Value进行排序,不可以使用Collections.sort()
+         答案：(test/java/org.king2.test.MapByOrder)
+
+
+=============1、
+由于本系统使用了自己写好的Cache缓存，所以记住去github上面把我的缓存框架download下来。
+    缓存框架的github：https://github.com/henkudeluqiqi/WebKingCache
+    下载好以后首先将缓存框架打包到你的本地仓库，接下来就可以运行项目了。
+
+
+=============2、
+我到处数据库脚本的工具是navicat，如果有使用sqlyog的小伙伴可能会导入失败，原因未知，有的话记住联系我。
